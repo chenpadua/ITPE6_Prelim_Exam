@@ -3,8 +3,8 @@ Name: Chennie
 
 Age: 21 + 3
 
-CHill lang lagi
+Chill lang lagi
 
-Use everything you learned (if there is) in solving this repository.
+
 
 Goodluck!
