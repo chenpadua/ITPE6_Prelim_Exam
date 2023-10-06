@@ -1,10 +1,5 @@
-This is your prelim laboratory exam.
-Name: Chennie
-
-Age: 21 + 3
-
-Chill lang lagi
-
-
-
-Goodluck!
+### Name - Chennie 
+_____
+### Age - 21 + 3
+_____
+### Favorite: Cat,Dog
